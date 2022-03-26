@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "OpenCV",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "OpenCV 文档",
+  "orientation": "any",
+  "scope": "./",
+  "short_name": "OpenCV",
+  "start_url": "./",
+  "theme_color": "#ffffff",
+  "icons": [
+        {
+            "src": "assets/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }]
+         
+}
